@@ -1,8 +1,8 @@
-# 供应链后台系统
+# ant pro 后台系统封装
 
 ## Environment Prepare
 
-安装 `node_modules`:
+install `node_modules`:
 
 ```bash
 yarn
@@ -37,3 +37,9 @@ You can also use script to auto fix some lint error:
 ```bash
 yarn lint:fix
 ```
+
+### better
+
+[x] commitlint
+
+[x] env compile
